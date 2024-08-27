@@ -1,4 +1,4 @@
-# Alura Challenge #1 | Oracle One | Decodificador de texto
+Oracle One | Decodificador de texto
 
 
 Sobre o Projeto
